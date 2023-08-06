@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Defiscreen from './Defiscreen';
 import ContactDetails from './ContactDetails';
 import { uuid } from 'uuidv4';
 import api from "../api/contacts";
