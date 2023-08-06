@@ -16,7 +16,7 @@ const ContactList = (props) => {
         );
     });
     // const getSearchTerm=()=>{
-    //     props.searchKeyword(inputEl.current.value);
+    //     props.searchKeyword(inputEl.current.value);asfsdfdafas
     // };
     return (
         <div style={{ marginTop: '70px' }}>
